@@ -10,3 +10,4 @@ pydantic==2.9.2
 pydantic-settings==2.5.2
 python-multipart==0.0.9
 tzdata
+psycopg2-binary
